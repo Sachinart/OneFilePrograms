@@ -1,2 +1,2 @@
 # OneFilePrograms
-# This software is a "Five question Quiz"
+# This repository contails programs with one page codes
